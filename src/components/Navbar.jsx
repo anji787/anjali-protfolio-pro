@@ -2,12 +2,12 @@ function Navbar() {
   return (
     <nav className="fixed top-0 w-full z-50 flex justify-between items-center px-16 py-6 backdrop-blur-xl bg-black/80 border-b border-white/10">
       
-      {/* Logo */}
+
       <div className="font-['Syne'] font-extrabold text-lg text-white tracking-tight">
         anjali<span className="text-[#c8ff00]">.</span>dev
       </div>
 
-      {/* Links */}
+      
       <ul className="flex gap-9 list-none">
         {['Skills', 'Projects', 'Education', 'Contact'].map(link => (
           <li key={link}>
