@@ -2,7 +2,7 @@ const projects = [
   { num: '01',  name: 'Mokr — Food Ordering App', tech: 'Next.js + Strapi CMS · SSR/CSR · User Auth · Dynamic Routing', type: 'Full Stack', fs: true },
   { num: '02',  name: 'Save Smart — Finance Tracker', tech: 'Next.js + Node.js · CRUD · External APIs · Real-time Data', type: 'Full Stack', fs: true },
   { num: '03',  name: 'Track Flow — Traffic Update App', tech: 'React.js + Vite · Responsive UI · Mobile Optimized', type: 'Frontend', fs: false },
-  { num: '04',  name: 'Sign Language Interface', tech: 'HTML · CSS · Bootstrap · JS · Accessibility Focused', type: 'Frontend', fs: false },
+  { num: '04',  name: 'Sign Language Interface', tech: 'HTML · CSS · tailwind css · JS · Accessibility Focused', type: 'Frontend', fs: false },
 ]
 
 function Projects() {

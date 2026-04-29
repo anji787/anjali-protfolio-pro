@@ -1,6 +1,6 @@
 const edu = [
   { year: '2023 — 2025', degree: 'Master of Computer Application', school: 'Lovely Professional University', loc: '📍 Phagwara, Punjab' },
-  { year: '2020 — 2023', degree: 'Bachelor of Computer Application', school: 'Gulzar Group of Institutes', loc: '📍 Khanna, Punjab' },
+  { year: '2021 — 2024', degree: 'Bachelor of Computer Application', school: 'Gulzar Group of Institutes', loc: '📍 Khanna, Punjab' },
 ]
 
 const achievements = [
